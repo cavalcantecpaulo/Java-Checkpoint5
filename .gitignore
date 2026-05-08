@@ -66,3 +66,6 @@ test-output/
 # Checkpoint específico
 checkpoint-java/
 temp/
+
+# Local configuration with sensitive data
+src/main/java/resources/application.properties
