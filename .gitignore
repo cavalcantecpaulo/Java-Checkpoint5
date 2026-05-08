@@ -68,4 +68,4 @@ checkpoint-java/
 temp/
 
 # Local configuration with sensitive data
-src/main/java/resources/application.properties
+src/main/resources/application.properties
